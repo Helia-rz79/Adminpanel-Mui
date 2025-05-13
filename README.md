@@ -2,6 +2,9 @@
 
 A responsive admin dashboard built with **Next.js (App Router)** and **Material UI**.
 
+![30](https://github.com/user-attachments/assets/21231849-b5f8-441e-be95-b486574098b4)
+
+
 ## Features
 
 - Sidebar navigation (Dashboard, Orders, Reports, etc.)
