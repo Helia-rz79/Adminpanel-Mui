@@ -13,8 +13,6 @@ A responsive admin dashboard built with **Next.js (App Router)** and **Material 
 
 🔗 [Live on Vercel](https://adminpanel-three-lake.vercel.app/)
 
-## Test Login
-
 
 ## Run Locally
 
